@@ -1,4 +1,4 @@
-# LeetCose
+# LeetCode
 
 Some records and notes about leering on Leetcode.
 
@@ -7,8 +7,6 @@ Some records and notes about leering on Leetcode.
 - Start from back
 - two-pointer approach
 
-##
-
 ## TODO
 
 - [Sorting in C](https://www.educba.com/sorting-in-c/)
@@ -16,7 +14,17 @@ Some records and notes about leering on Leetcode.
   - Merge Sort
   - Heapsort
   - Insertion Sort
-- 
+- 2-D array
+- [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
+- Hash Table / Linked List / Queue / Stack Card link --> https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1155/
+
+## Do Again
+
+- https://leetcode.com/explore/learn/card/sorting/694/comparison-based-sorts/4486/
+- https://leetcode.com/problems/kth-largest-element-in-an-array/editorial/
+- https://leetcode.com/problems/minimum-absolute-difference/editorial/
+- https://leetcode.com/problems/maximum-gap/editorial/
+- https://leetcode.com/problems/top-k-frequent-elements/editorial/
 
 ## Refference
 
@@ -30,3 +38,14 @@ Some records and notes about leering on Leetcode.
 
 - Yoituber
   - [LeetCode Solutions Nick White (Java)](https://youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
+  - [I solved 541 Leetcode problems. But you need only 150. by Power Couple](https://youtu.be/xF554Tlzo-c)
+    - Ready? --> Solve medium in 35 min.
+  - [How to actually grind Leetcode | Strategies to get you Leetcode + interview ready by Laura Jiang](https://youtu.be/mAXOv_fZXt4)
+    - Repeat practice yesterday problem
+    - Speak out loudly what you're thinkin
+
+### 小紅書
+
+- Youtuber
+  - [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
+- [VISUALGO](https://visualgo.net/en)

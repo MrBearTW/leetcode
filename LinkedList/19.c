@@ -64,5 +64,4 @@ struct ListNode *removeNthFromEnd(struct ListNode *head, int n)
     return head;
 }
 
-
 // ref: https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/2884005/c-linkedlist-more-like-easylist/?languageTags=c

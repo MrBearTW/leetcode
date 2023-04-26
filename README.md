@@ -7,6 +7,11 @@ Some records and notes about leering on Leetcode.
 - Start from back
 - two-pointer approach
 
+## linked list
+
+- If you need to add or delete a node frequently, a linked list could be a good choice.
+- If you need to access an element by index often, an array might be a better choice than a linked list.
+
 ## TODO
 
 - [Sorting in C](https://www.educba.com/sorting-in-c/)
@@ -40,9 +45,9 @@ Some records and notes about leering on Leetcode.
   - [LeetCode Solutions Nick White (Java)](https://youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
   - [I solved 541 Leetcode problems. But you need only 150. by Power Couple](https://youtu.be/xF554Tlzo-c)
     - Ready? --> Solve medium in 35 min.
-  - [How to actually grind Leetcode | Strategies to get you Leetcode + interview ready by Laura Jiang](https://youtu.be/mAXOv_fZXt4)
+  - [How to actually grind LeetCode | Strategies to get you LeetCode + interview ready by Laura Jiang](https://youtu.be/mAXOv_fZXt4)
     - Repeat practice yesterday problem
-    - Speak out loudly what you're thinkin
+    - Speak out loudly what you're thinking
 
 ### 小紅書
 

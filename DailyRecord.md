@@ -12,4 +12,9 @@
 - 2023/04/11
   - [160] 用.next 當 ++
   - LinkedList 比對是用 Pointer
-  - 下一個目標：[Hash Table](https://leetcode.com/explore/learn/card/hash-table/)
+- 2023/04/18
+  - [234] Use recursion
+
+- 下一個目標
+  - [Hash Table](https://leetcode.com/explore/learn/card/hash-table/)
+  - [Recursion I](https://leetcode.com/explore/learn/card/recursion-i/)
